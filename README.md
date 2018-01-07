@@ -1,4 +1,6 @@
 # start_java_web
-
-How to use:  
-sh start_java_web.sh "empty" "test" "8080"
+System: CentOS7
+How to use:  
+<code shell>
+$ sh start_java_web.sh "empty" "test" "8080"
+</code>
