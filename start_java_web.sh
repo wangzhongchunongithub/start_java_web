@@ -1,3 +1,4 @@
+#!/bin/bash
 function isDockerInstalled(){
     echo "[INFO] Check docker installation"
     check_docker_results="`docker -v`"
